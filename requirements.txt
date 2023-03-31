@@ -1,16 +1,2 @@
-attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1671632566681/work
-click @ file:///home/conda/feedstock_root/build_artifacts/click_1666798198223/work
-colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
-exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1678703645500/work
-Flask @ file:///home/conda/feedstock_root/build_artifacts/flask_1676592993069/work
-importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1679167925176/work
-iniconfig @ file:///home/conda/feedstock_root/build_artifacts/iniconfig_1673103042956/work
-itsdangerous @ file:///home/conda/feedstock_root/build_artifacts/itsdangerous_1648147185463/work
-Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1654302431367/work
-MarkupSafe @ file:///Users/runner/miniforge3/conda-bld/markupsafe_1674135977284/work
-packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1673482170163/work
-pluggy @ file:///home/conda/feedstock_root/build_artifacts/pluggy_1667232663820/work
 pytest==7.2.2
-tomli @ file:///home/conda/feedstock_root/build_artifacts/tomli_1644342247877/work
-Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1676411946679/work
-zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1677313463193/work
+flask==2.2.3
